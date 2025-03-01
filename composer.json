@@ -1,0 +1,20 @@
+{
+    "name": "yecid/repo-calcu",
+    "description": "Project to use as a base library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yecid\\RepoCalcu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yecid Rodriguez",
+            "email": "yecid.pra@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}
+
